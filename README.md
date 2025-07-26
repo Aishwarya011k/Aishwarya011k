@@ -8,7 +8,9 @@
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryadshetty)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aishwaryad.netlify.app/)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aishwaryad.netlify.app/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AishwaryaD3164?t=WiRqhJmiBhM32MggflvJnw&s=09)
 
 ---
@@ -38,8 +40,14 @@
 
 ### 📊 GitHub Stats:
 
-![Aishwarya011k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishwarya011k&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight)
+## 🌟 GitHub Stats — Aishwarya
+
+![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishwarya011k&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aishwarya011k&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 
 ---
 
