@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=py,fastapi,postman,vercel" height="45" />
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats
