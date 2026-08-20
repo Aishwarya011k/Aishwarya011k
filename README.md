@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aishwarya011k&theme=tokyonight&hide_border=true" />
+ <img align="center" src="https://streak-stats.demolab.com/?user=Aishwarya011k" alt="Aishwarya011k" />
 </p>
 
 <p align="center">
