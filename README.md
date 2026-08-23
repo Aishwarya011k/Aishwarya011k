@@ -43,9 +43,5 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://streak-stats.demolab.com/?user=Aishwarya011k" alt="Aishwarya011k" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aishwarya011k&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
