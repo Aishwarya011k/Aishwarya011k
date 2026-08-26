@@ -42,7 +42,6 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya011k&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aishwarya011k&color=blueviolet&style=flat-square" alt="profile views" />
