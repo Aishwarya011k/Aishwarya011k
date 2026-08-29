@@ -29,18 +29,12 @@
 **DevOps & Systems**
 <
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,jenkins,grafana,argocd,helm" height="45" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="28" />
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" height="28" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,jenkins,grafana,argo,helm,apachekafka,redis" height="45" />
 </p>
 
 **Agentic AI & Concepts**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postman,vercel" height="45" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postman,vercel,kaf" height="45" />
 </p>
 
 ### 📊 GitHub Stats
