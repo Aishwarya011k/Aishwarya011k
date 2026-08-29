@@ -27,7 +27,7 @@
 </p>
 
 **DevOps & Systems**
-<
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,jenkins,grafana,redis" height="45" />
 </p>
