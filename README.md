@@ -29,7 +29,7 @@
 **DevOps & Systems**
 <
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,jenkins,helm,argocd,grafana,trivy" height="45" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,jenkins,trivy" height="45" />
 </p>
 <p>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="28" />
