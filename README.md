@@ -28,7 +28,7 @@
 
 **DevOps & Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,githubactions,docker,vscode,helm,argocd,jenkins,trivy" height="45" />
 </p>
 
 **Agentic AI & Concepts**
