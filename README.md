@@ -43,7 +43,7 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya011k&show_icons=true&theme=dark&hide_border=true" width="48%" />
+ 
   <img src="https://streak-stats.demolab.com?user=Aishwarya011k&theme=dark&hide_border=true" width="48%" />
 </p>
 
