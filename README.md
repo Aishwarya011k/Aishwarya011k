@@ -39,8 +39,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Aishwarya011k&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Aishwarya011k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2691E&icon_color=8B5A2B&text_color=FFFFFF" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2691E&text_color=FFFFFF" />
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Aishwarya011k&background=0D1117&ring=8B5A2B&fire=D2691E&currStreakLabel=D2691E&sideNums=D2691E&currStreakNum=FFFFFF&sideLabels=8B5A2B&dates=8B5A2B&hide_border=true" width="48%" />
