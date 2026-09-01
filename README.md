@@ -43,8 +43,7 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aishwarya011k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=Aishwarya011k&theme=dark&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Aishwarya011k&background=0D1117&ring=8B5A2B&fire=D2691E&currStreakLabel=D2691E&sideNums=D2691E&currStreakNum=FFFFFF&sideLabels=8B5A2B&dates=8B5A2B&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
